@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Nexus Studio",
+  "description": "A high-performance AI creative suite powered by Gemini 3.0, featuring multi-modal chat, image generation, and real-time search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
